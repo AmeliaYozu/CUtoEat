@@ -12,10 +12,10 @@ public class Yelp extends YelpAPI {
 	private static final String SEARCH_PATH = "/v2/search";
 	
 	
-	private static final String COMSUMER_KEY = "X-Bp-pLwu02cJL1hGP8U6g";
-	private static final String COMSUMER_SECRET = "Mjr36NDMkKihE3PkTDdD6KOrUdI";
-	private static final String TOKEN = "NzPFDpFTf3jFtBTCiFC6z-rnBbjbGX_2";
-	private static final String TOKENSECRET = "urxtDsAbSlc1YDP6KJtn6axyX_A";
+	private static final String COMSUMER_KEY = "";
+	private static final String COMSUMER_SECRET = "";
+	private static final String TOKEN = "";
+	private static final String TOKENSECRET = "";
 	
 	
 	public Yelp(String consumerKey, String consumerSecret, String token, String tokenSecret) {
